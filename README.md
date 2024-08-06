@@ -1,2 +1,2 @@
 TechStack: 
-javascript, react, next.js, node.js, npm, git, styled-components, redux, zustand, figma, mongoDB
+typescript, react, angular, next.js, php, doctrine, mysql, node.js, redux, figma, all adobe
